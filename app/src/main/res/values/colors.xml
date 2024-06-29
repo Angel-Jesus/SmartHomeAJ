@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFC9C9</color>
+    <!-- Color to Login -->
+    <color name="edit_text_bacground">#FAECEC</color>
+    <color name="edit_text_border">#FF3F3F</color>
+    <color name="BackgroundMain">#ED131F</color>
+    <color name="drawable_Tint_Icon">#FF0F0F</color>
+    <!-- Color to State Light -->
+    <color name="ON_LIGHT">#FDEFA9</color>
+    <color name="OFF_LIGHT">#FFFFFFFF</color>
+    <!-- Color to State Door -->
+    <color name="ON_DOOR">#FDEFA9</color>
+    <color name="OFF_DOOR">#FFFFFFFF</color>
+
+</resources>

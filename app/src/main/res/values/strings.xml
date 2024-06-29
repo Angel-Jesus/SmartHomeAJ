@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Smart Home AJ</string>
+
+    <!-- String para los iconos -->
+    <string name="icon_home">Home</string>
+    <string name="icon_light">Light</string>
+    <string name="icon_door">Door</string>
+    <string name="icon_setting">Setting</string>
+
+    <!-- String para los textView -->
+    <string name="text_welcome">Bienvenidos a\nSmartHome AJ</string>
+    <string name="text_smart">Smart Home AJ</string>
+    <string name="text_mood">Modos de operacion personalizados</string>
+    <string name="text_mood_day">Mood Day</string>
+    <string name="text_mood_night">Mood Night</string>
+    <string name="text_title_home">Home</string>
+    <string name="text_title_setting">Setting</string>
+    <string name="text_title_light">Light</string>
+    <string name="text_title_door">Door</string>
+    <string name="text_subtitle_light">Seleccione las luces</string>
+    <string name="text_subtitle_door">Seleccione la puerta</string>
+    <string name="text_ForgetPassword">¿Olvido su contraseña?</string>
+    <string name="text_Email">Email</string>
+    <string name="text_Password">Password</string>
+    <string name="text_LogOut">Log Out</string>
+
+    <!-- String para fragments -->
+    <string name="fragment_light_1">Foco 1</string>
+    <string name="fragment_light_2">Foco 2</string>
+    <string name="fragment_light_3">Foco 3</string>
+    <string name="fragment_light_4">Foco 4</string>
+    <string name="fragment_light_5">Foco 5</string>
+    <string name="fragment_light_6">Foco 6</string>
+    <string name="fragment_door_1">Casa</string>
+    <string name="fragment_door_2">Alojamiento</string>
+
+    <!-- String para botones -->
+    <string name="btn_txtSingIn">SIGN IN</string>
+
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_item"
+        android:icon="@drawable/home_24"
+        android:title="@string/icon_home"/>
+
+    <item
+        android:id="@+id/light_item"
+        android:icon="@drawable/lightbulb_24"
+        android:title="@string/icon_light" />
+
+    <item
+        android:id="@+id/door_item"
+        android:icon="@drawable/door_back_24"
+        android:title="@string/icon_door"/>
+
+    <item
+        android:id="@+id/setting_item"
+        android:icon="@drawable/signout"
+        android:title="@string/icon_setting"/>
+</menu>
